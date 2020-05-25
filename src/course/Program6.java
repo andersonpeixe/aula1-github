@@ -27,4 +27,6 @@ public class Program6 {
 		System.out.println(x2);
 	}
 
+	// Teste commit git
+	
 }
